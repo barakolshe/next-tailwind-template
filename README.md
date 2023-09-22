@@ -10,17 +10,17 @@ Typescript
 
 ## Directory Structure:
 /
-├── src
-│   ├── api
-│   ├── app
-│   ├── assets
-│   ├── components
-│   │   ├── common
-│   │   ├── layout
-│   │   └── shared
-│   ├── configs
-│   ├── lib
-│   ├── providers
-│   ├── types
-│   └── utils
-└── public
+├── src  
+│   ├── api  
+│   ├── app  
+│   ├── assets  
+│   ├── components  
+│   │   ├── common  
+│   │   ├── layout  
+│   │   └── shared  
+│   ├── configs  
+│   ├── lib  
+│   ├── providers  
+│   ├── types  
+│   └── utils  
+└── public  
